@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '37892'
     url: http://www.gutenberg.org/2009/agents/37892
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35771#When-the-Ku-Klux-Rode
 gutenberg_issued: '2011-04-05'
 gutenberg_type: Text
 identifiers:
